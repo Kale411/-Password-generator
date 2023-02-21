@@ -3,11 +3,11 @@
 ## Description
 Added JS elements which gave functionality to the webpage's generate password button.
 
-##Link
+## Link
 https://kale411.github.io/-Password-generator/
 
-##Credits
+## Credits
 Xandromus for providing starter code.
 
-##License
+## License
 MIT license
